@@ -6,7 +6,7 @@ This project is a simple background image slider implemented using HTML, CSS, an
 
 ![Background Slider Demo](/assets/background-slider.gif)
 
-##Table of Contents
+## Table of Contents
 
 - Introduction
 - Features
