@@ -71,4 +71,4 @@ Contributions to the Background Slider project are welcome! If you have any sugg
 
 The Background Slider project is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. Refer to the LICENSE file for more information.
 
-Made from <a href="https://twitter.com/iamleviyn">Leviyn</a> with :heart:
+Made from <a href="https://twitter.com/uygurhikmet">Hikmet</a> with :heart:
